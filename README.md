@@ -1,5 +1,6 @@
 # Estimation_with_uncertainity
-## Shared data is useful for reproducing the results in the paper (Uncertainty modeling in the TDOA method). The data contain time measurements and Covariances. 
+## The following datasets contain all measurements and covariances needed to reproduce the results in the paper (Uncertainty modeling in the TDOA method). 
+# variable names and their meanings
 1. Conf_receivers: position vector of receiver
 2. tranmitter_pos : position of tranmitter
 3. TOA/TDOA_Gamma: gamma values
